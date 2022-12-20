@@ -4,5 +4,5 @@ Estou cursando Analise e Desenvolvimento de Sistemas na FAETERJ-RIO.
 
 Estudando C e Desenvolvimento Web(html,css,JS) :)
 
-Conhecimento básicos em C# e MySQL. :)
+Conhecimento básicos em C# e banco de dados. :)
 
