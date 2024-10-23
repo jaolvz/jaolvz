@@ -1,5 +1,5 @@
 ### Eai, beleza ? Eu sou o João 😶‍🌫️✌🏾
-    Estou cursando Análise e Desenvolvimento de Sistemas na FAETERJ-RIO e trabalho na Wilson Sons 🛥️    
+    Trabalho na Wilson Sons 🛥️    
 <hr>
 
 
