@@ -1,5 +1,5 @@
 ### Eai, beleza ? Eu sou o João 😶‍🌫️✌🏾
-    Trabalho na Wilson Sons 🛥️    
+    Estudante autoditada de Python
 <hr>
 
 
