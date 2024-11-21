@@ -1,5 +1,5 @@
 ### Eai, beleza ? Eu sou o João 😶‍🌫️✌🏾
-    Estudante autoditada de Python
+    Estudante autoditada.
 <hr>
 
 
