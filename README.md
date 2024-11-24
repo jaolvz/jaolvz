@@ -1,3 +1,3 @@
-Estudante Autodidata
+Estudante autodidata
 
 *fejaprogamacao@gmail.com*
