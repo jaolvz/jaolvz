@@ -1,3 +1,3 @@
 Estudante autodidata
 
-*fejaprogamacao@gmail.com*
+joaovgoliveira01@gmail.com
